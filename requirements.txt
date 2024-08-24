@@ -2,3 +2,6 @@ streamlit
 requests
 pandas
 scikit-learn
+threadpoolctl
+scipy
+joblib 
