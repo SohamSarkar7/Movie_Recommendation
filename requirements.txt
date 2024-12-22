@@ -4,4 +4,5 @@ pandas
 scikit-learn
 threadpoolctl
 scipy
-joblib 
+joblib
+nltk
